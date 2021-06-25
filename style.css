@@ -45,6 +45,13 @@ height: auto;
         height: 80vh;
     }
 }
+@media only screen and (max-width: 300px){
+  #title{
+    background-color: #003a63;
+    background-image: url('cind3.jpg');
+    height: 100vh;
+  }
+}s
 @media only screen and (max-width: 600px){
     #title{
         height: 50vh;
